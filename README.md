@@ -14,6 +14,8 @@
 
 ## Diagrama de casos de uso
 
+![Casos de uso](https://user-images.githubusercontent.com/54810355/97944954-14e5e080-1d54-11eb-9fa5-4dd4dc3c758a.jpg)
+
 ## Diagrama de  Data Flow
 
 ![DataFlow](https://user-images.githubusercontent.com/54810355/97940501-adc72c80-1d51-11eb-94fa-46d01cde2e86.jpg)
