@@ -38,4 +38,11 @@
 ![Consulta](https://user-images.githubusercontent.com/54810355/97951770-4917cc00-1d69-11eb-9543-b2176fe88616.jpg)
 
 TEMPORIZADOR
+
+
+Establecer Tiempo
 ![image](https://user-images.githubusercontent.com/54810276/97993327-ea2a7500-1db1-11eb-843f-c587794364e0.png)
+
+Iniciar Temporizador
+![image](https://user-images.githubusercontent.com/54810276/97993444-15ad5f80-1db2-11eb-819b-823a421f091b.png)
+
