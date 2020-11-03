@@ -12,6 +12,7 @@
 ![R4](https://user-images.githubusercontent.com/54810355/97941056-d2bb9f80-1d51-11eb-90ec-c050256804b1.PNG)
 ![R5](https://user-images.githubusercontent.com/54810355/97941060-d2bb9f80-1d51-11eb-8f77-bb3f7dffe542.PNG)
 ![GuardarMemorai](https://user-images.githubusercontent.com/54810355/97950843-3354d780-1d66-11eb-9fbf-a728a64a8b26.PNG)
+![Morias](https://user-images.githubusercontent.com/54810355/97951772-4a48f900-1d69-11eb-82f4-812540ba782e.PNG)
 
 ## Diagrama de casos de uso
 
