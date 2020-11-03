@@ -36,3 +36,6 @@
 ![Reiniciar Cronometro](https://user-images.githubusercontent.com/54810355/97945183-b9682280-1d54-11eb-8bbb-19b7e64174c5.jpg)
 ![DSGuardarm](https://user-images.githubusercontent.com/54810355/97951135-2d132b00-1d67-11eb-86b0-711efec2dea8.jpg)
 ![Consulta](https://user-images.githubusercontent.com/54810355/97951770-4917cc00-1d69-11eb-9543-b2176fe88616.jpg)
+
+TEMPORIZADOR
+![image](https://user-images.githubusercontent.com/54810276/97993327-ea2a7500-1db1-11eb-843f-c587794364e0.png)
