@@ -32,3 +32,4 @@
 
 ![Avanzar Cronometro](https://user-images.githubusercontent.com/54810355/97945182-b8cf8c00-1d54-11eb-872c-e6b111afe2e7.jpg)
 ![Reiniciar Cronometro](https://user-images.githubusercontent.com/54810355/97945183-b9682280-1d54-11eb-8bbb-19b7e64174c5.jpg)
+![DSGuardarm](https://user-images.githubusercontent.com/54810355/97951135-2d132b00-1d67-11eb-86b0-711efec2dea8.jpg)
