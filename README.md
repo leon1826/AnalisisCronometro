@@ -27,4 +27,5 @@
 
 ## Diagramas de secuencias
 
-![AvanzarCronometro](https://user-images.githubusercontent.com/54810355/97943090-5f665d80-1d52-11eb-9a1c-3e33fbc13cf8.jpg)
+![Avanzar Cronometro](https://user-images.githubusercontent.com/54810355/97945182-b8cf8c00-1d54-11eb-872c-e6b111afe2e7.jpg)
+![Reiniciar Cronometro](https://user-images.githubusercontent.com/54810355/97945183-b9682280-1d54-11eb-8bbb-19b7e64174c5.jpg)
