@@ -3,6 +3,7 @@
 ## Integrantes
 
 - Lindsey katherine Camargo Beltran - 20172020037
+- Brayan Esteban Leon Pinto - 20141001002
 
 ## Requerimientos
 
@@ -63,3 +64,8 @@ Diagramas de Secuencia Temporizador
 ![image](https://user-images.githubusercontent.com/54810276/97997408-ebaa6c00-1db6-11eb-89e0-63d2df6532b0.png)
 ![image](https://user-images.githubusercontent.com/54810276/97997426-f06f2000-1db6-11eb-8faa-f72c844dfc99.png)
 ![image](https://user-images.githubusercontent.com/54810276/97997450-f533d400-1db6-11eb-90fb-7ded930d01d4.png)
+
+
+Requerimientos
+![image](https://user-images.githubusercontent.com/54810276/98000525-97a18680-1dba-11eb-812d-a86a1bf198c0.png)
+
