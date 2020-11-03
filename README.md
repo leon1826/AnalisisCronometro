@@ -67,5 +67,12 @@ Diagramas de Secuencia Temporizador
 
 
 Requerimientos
-![image](https://user-images.githubusercontent.com/54810276/98000525-97a18680-1dba-11eb-812d-a86a1bf198c0.png)
+
+![image](https://user-images.githubusercontent.com/54810276/98003081-501bfa00-1dbc-11eb-928d-411d6840e0b3.png)
+![image](https://user-images.githubusercontent.com/54810276/98003116-58743500-1dbc-11eb-8904-1a0a13cdaa7d.png)
+![image](https://user-images.githubusercontent.com/54810276/98003145-60cc7000-1dbc-11eb-92a3-1293a71f592d.png)
+![image](https://user-images.githubusercontent.com/54810276/98003166-688c1480-1dbc-11eb-987e-91c1d38616d8.png)
+![image](https://user-images.githubusercontent.com/54810276/98003190-717ce600-1dbc-11eb-9578-3c538c0baf41.png)
+![image](https://user-images.githubusercontent.com/54810276/98003220-7772c700-1dbc-11eb-8cde-786032e9c66c.png)
+
 
