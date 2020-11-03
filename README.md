@@ -25,3 +25,4 @@
 
 ## Diagramas de secuencias
 
+![AvanzarCronometro](https://user-images.githubusercontent.com/54810355/97943090-5f665d80-1d52-11eb-9a1c-3e33fbc13cf8.jpg)
