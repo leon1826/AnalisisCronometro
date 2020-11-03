@@ -6,6 +6,12 @@
 
 ## Requerimientos
 
+![R1](https://user-images.githubusercontent.com/54810355/97941031-d18a7280-1d51-11eb-9a76-d03b580f91a0.PNG)
+![R2](https://user-images.githubusercontent.com/54810355/97941043-d2230900-1d51-11eb-83f6-1d81b3c90ed3.PNG)
+![R3](https://user-images.githubusercontent.com/54810355/97941049-d2230900-1d51-11eb-9acf-28bbf480c8e8.PNG)
+![R4](https://user-images.githubusercontent.com/54810355/97941056-d2bb9f80-1d51-11eb-90ec-c050256804b1.PNG)
+![R5](https://user-images.githubusercontent.com/54810355/97941060-d2bb9f80-1d51-11eb-8f77-bb3f7dffe542.PNG)
+
 ## Diagrama de casos de uso
 
 ## Diagrama de  Data Flow
