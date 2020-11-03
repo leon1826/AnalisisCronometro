@@ -20,5 +20,8 @@
 
 ## Diagramas de actividades
 
+![IniciarCronometro](https://user-images.githubusercontent.com/54810355/97941868-0bf40f80-1d52-11eb-87c3-b5471dfce53b.jpg)
+![PararCronometro-PausarCrnometro](https://user-images.githubusercontent.com/54810355/97941879-0d253c80-1d52-11eb-843c-bb7820934323.jpg)
+
 ## Diagramas de secuencias
 
