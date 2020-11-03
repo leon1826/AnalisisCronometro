@@ -41,8 +41,22 @@ TEMPORIZADOR
 
 
 Establecer Tiempo
+
 ![image](https://user-images.githubusercontent.com/54810276/97993327-ea2a7500-1db1-11eb-843f-c587794364e0.png)
 
 Iniciar Temporizador
+
 ![image](https://user-images.githubusercontent.com/54810276/97993444-15ad5f80-1db2-11eb-819b-823a421f091b.png)
+
+Reiniciar Temporizador
+
+![image](https://user-images.githubusercontent.com/54810276/97993638-56a57400-1db2-11eb-9330-7e46248e9ca7.png)
+
+Pausar Temporizador
+
+![image](https://user-images.githubusercontent.com/54810276/97993780-86ed1280-1db2-11eb-881f-05c60aa8af4e.png)
+
+
+Diagramas de Secuencia Temporizador 
+
 
