@@ -27,6 +27,7 @@
 ![PararCronometro-PausarCrnometro](https://user-images.githubusercontent.com/54810355/97941879-0d253c80-1d52-11eb-843c-bb7820934323.jpg)
 ![Reiniciar](https://user-images.githubusercontent.com/54810355/97945668-2e882780-1d56-11eb-8cc2-7fee0abb9b41.jpg)
 ![Guardarmemoria](https://user-images.githubusercontent.com/54810355/97950931-70b96500-1d66-11eb-8b31-6975fdb5b418.jpg)
+![Momoria2](https://user-images.githubusercontent.com/54810355/97951771-49b06280-1d69-11eb-8b4b-1c6b1ea94b85.jpg)
 
 ## Diagramas de secuencias
 
