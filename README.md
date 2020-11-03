@@ -12,7 +12,6 @@
 ![R4](https://user-images.githubusercontent.com/54810355/97941056-d2bb9f80-1d51-11eb-90ec-c050256804b1.PNG)
 ![R5](https://user-images.githubusercontent.com/54810355/97941060-d2bb9f80-1d51-11eb-8f77-bb3f7dffe542.PNG)
 ![GuardarMemorai](https://user-images.githubusercontent.com/54810355/97950843-3354d780-1d66-11eb-9fbf-a728a64a8b26.PNG)
-![Consulta](https://user-images.githubusercontent.com/54810355/97951770-4917cc00-1d69-11eb-9543-b2176fe88616.jpg)
 
 ## Diagrama de casos de uso
 
@@ -34,3 +33,5 @@
 ![Avanzar Cronometro](https://user-images.githubusercontent.com/54810355/97945182-b8cf8c00-1d54-11eb-872c-e6b111afe2e7.jpg)
 ![Reiniciar Cronometro](https://user-images.githubusercontent.com/54810355/97945183-b9682280-1d54-11eb-8bbb-19b7e64174c5.jpg)
 ![DSGuardarm](https://user-images.githubusercontent.com/54810355/97951135-2d132b00-1d67-11eb-86b0-711efec2dea8.jpg)
+.PNG)
+![Consulta](https://user-images.githubusercontent.com/54810355/97951770-4917cc00-1d69-11eb-9543-b2176fe88616.jpg)
