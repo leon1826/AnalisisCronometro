@@ -59,4 +59,7 @@ Pausar Temporizador
 
 Diagramas de Secuencia Temporizador 
 
-
+![image](https://user-images.githubusercontent.com/54810276/97997327-d8979c00-1db6-11eb-8ff3-118d9bd20a11.png)
+![image](https://user-images.githubusercontent.com/54810276/97997408-ebaa6c00-1db6-11eb-89e0-63d2df6532b0.png)
+![image](https://user-images.githubusercontent.com/54810276/97997426-f06f2000-1db6-11eb-8faa-f72c844dfc99.png)
+![image](https://user-images.githubusercontent.com/54810276/97997450-f533d400-1db6-11eb-90fb-7ded930d01d4.png)
